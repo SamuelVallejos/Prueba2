@@ -1,0 +1,13 @@
+.centrado{
+    text-align: center;
+}
+
+.tamano_img{
+    width: 100%;
+    max-width: 600px;
+    margin: auto;    
+}
+
+.separacion{
+    margin-top: 20px;
+}
